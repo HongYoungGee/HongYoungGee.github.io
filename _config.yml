@@ -9,10 +9,10 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:            Codinfox
+title:            HongYoungGee
 tagline:          'Learning to be Giant.'
 description:      'Blog of YourName. Here are some technical stuff. Some notes about development.'
-url:              http://codinfox.github.io
+url:              http://HongYoungGee.github.io
 
 author:
   name:           'Your Name'
